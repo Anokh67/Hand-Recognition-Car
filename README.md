@@ -16,3 +16,5 @@ The program works completely fine and is recognizing my hand movements
 TASK 2:
 Now that the code is compelete, I want the python code to transfer were the inputs to an arduino/esp32.
 
+Update 1:
+- so far the code detects the ports on the pc and you can choose what port you want the information to go to, but theinfo isnt actually going there yet
